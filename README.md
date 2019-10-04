@@ -2,7 +2,7 @@
 Projeto desenvolvido para disciplina de 'Desenvolvimento de Jogos' (2018).
 
 ## Colaboradores ##
-* Daniel Terribile Spadari.
+* Daniel Terribile Rib Spadari.
 * Eliel Brisido.
 * Fernando de Moraes.
 
